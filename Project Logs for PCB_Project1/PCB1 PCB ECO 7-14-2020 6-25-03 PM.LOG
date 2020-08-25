@@ -1,0 +1,24 @@
+Removed Pin From Net: NetName=NetC2_A Pin=D13-K
+Removed Pin From Net: NetName=GND Pin=D14-K
+Removed Pin From Net: NetName=GND Pin=JP2-2
+Removed Pin From Net: NetName=NetC2_A Pin=K2-Coil1
+Removed Pin From Net: NetName=NetC2_A Pin=K2-Relay1
+Removed Pin From Net: NetName=GND Pin=P4-N
+Removed Pin From Net: NetName=GND Pin=S2-2
+Removed Member From Class: ClassName=Sheet1 Member=D13
+Removed Member From Class: ClassName=Sheet1 Member=D14
+Removed Member From Class: ClassName=Sheet1 Member=JP2
+Removed Member From Class: ClassName=Sheet1 Member=K2
+Removed Member From Class: ClassName=Sheet1 Member=P4
+Removed Member From Class: ClassName=Sheet1 Member=R4
+Removed Member From Class: ClassName=Sheet1 Member=S2
+Change Component Designator: OldDesignator= NewDesignator=H1
+Change Component Designator: OldDesignator= NewDesignator=H2
+Change Component Designator: OldDesignator= NewDesignator=H3
+Change Component Designator: OldDesignator= NewDesignator=H4
+Change Component Description : Designator=Q1 Old Description=Power MOSFET ; 60 V ; 1.2 mR ; 287A ; Single N-Channel New Description=Power MOSFET ; 60 V ; 1.2 mR ; 287A ; Single N-Channel
+Change Component Description : Designator=Q2 Old Description=Power MOSFET ; 60 V ; 1.2 mR ; 287A ; Single N-Channel New Description=Power MOSFET ; 60 V ; 1.2 mR ; 287A ; Single N-Channel
+Added Member To Class: ClassName=Sheet1 Member=Component H1 Mounting: M3
+Added Member To Class: ClassName=Sheet1 Member=Component H2 Mounting: M3
+Added Member To Class: ClassName=Sheet1 Member=Component H3 Mounting: M3
+Added Member To Class: ClassName=Sheet1 Member=Component H4 Mounting: M3
